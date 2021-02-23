@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body {background-image: url("images/background.jpg")}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+
+.myheader{
+	background-color:#D5FCFF;
+	background-image:url("images/header.jpg");
+	width: 900px;
+	height: 264px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+
+.mycontent{
+	background-color:#BFCCCC;
+	width: 878px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 12px;
+	padding-right: 12px;
+	
+}
+
+.blue-boy {
+	
+	float: left;
+	padding-right: 12px;
+}
